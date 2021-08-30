@@ -4,5 +4,3 @@ import calendar
 year = int(input("Please enter your year: "))
 month = int(input("Please enter your month: "))
 print(calendar.month(year, month))
-
-#Success 😎😎😎
